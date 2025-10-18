@@ -2,7 +2,7 @@
 This file defines the views for the app's main routes.
 They are functions that respond to web requests with the appropriate web responses.
 They invoke the templates that will be rendered in return (if applicable) and handle any errors
-that may arise during the handling of the requests, as well as redirections..
+that may arise during the handling of the requests, as well as redirections.
 """
 
 from bson import ObjectId
