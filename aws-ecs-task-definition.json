@@ -1,7 +1,7 @@
 {
   "family": "managed-instance-tutorial",
   "networkMode": "awsvpc",
-  "executionRoleArn": "arn:aws:iam::account-id:role/ecsTaskExecutionRole",
+  "executionRoleArn": "arn:aws:iam::187445350228:role/ecsTaskExecutionRole",
   "containerDefinitions": [
     {
       "name": "sample-app",
